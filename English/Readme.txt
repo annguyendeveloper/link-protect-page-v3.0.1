@@ -5,7 +5,7 @@
 
 2. Import file Link Protect.sql into phpmyadmin. Next go to http://domain.com/install (default password access: Please not anti-gay) to configure properly with your data.
 
-3. Vào http://domain.com/_system/admin điền
+3. Vào http://domain.com/_system/admin enter
 Tài khoản: vynghia
 Mật khẩu: nghiabestgay2k2
 
