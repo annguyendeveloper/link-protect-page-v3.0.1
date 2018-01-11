@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Install file
+RewriteRule ^install/?$ install.php [L]
+
+# PHP verion information
+RewriteRule ^php/version?$ php-version.php [L]
+
+# Identify the hash code in Database
+RewriteRule ^x/(.*)/?$ xuri.php?x=$1 [QSA,L]
